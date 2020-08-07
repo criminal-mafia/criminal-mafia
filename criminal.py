@@ -50,15 +50,19 @@ def jalan(z):
 logo = """
                        
                      
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       facebook:Easin.Official10
+
+╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╭━╮
+┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱┃╭╯
+┃┃╱╰╋━┳┳╮╭┳┳━╮╭━━┫┃╱╱╭╮╭┳━━┳╯╰┳┳━━╮
+┃┃╱╭┫╭╋┫╰╯┣┫╭╮┫╭╮┃┣━━┫╰╯┃╭╮┣╮╭╋┫╭╮┃
+┃╰━╯┃┃┃┃┃┃┃┃┃┃┃╭╮┃╰┳━┫┃┃┃╭╮┃┃┃┃┃╭╮┃
+╰━━━┻╯╰┻┻┻┻┻╯╰┻╯╰┻━╯╱╰┻┻┻╯╰╯╰╯╰┻╯╰╯
+       facebook:criminal.box
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1: md_easin
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;99mcriminal-mafia
+\033[1;96mInstagram \033[1;93m: \033[1: vi______per
+\033[1;96mFacebook  \033[1;93m: \033[1: criminal.box
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/criminal-mafia/criminal-mafia
 \033[1;91m======================================="""
 
 def tik():
@@ -81,20 +85,25 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m
  
             
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       Facebook:Smart Boy Easin
+▒█▀▀▀█ 
+╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╭━╮
+┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱┃╭╯
+┃┃╱╰╋━┳┳╮╭┳┳━╮╭━━┫┃╱╱╭╮╭┳━━┳╯╰┳┳━━╮
+┃┃╱╭┫╭╋┫╰╯┣┫╭╮┫╭╮┃┣━━┫╰╯┃╭╮┣╮╭╋┫╭╮┃
+┃╰━╯┃┃┃┃┃┃┃┃┃┃┃╭╮┃╰┳━┫┃┃┃╭╮┃┃┃┃┃╭╮┃
+╰━━━┻╯╰┻┻┻┻┻╯╰┻╯╰┻━╯╱╰┻┻┻╯╰╯╰╯╰┻╯╰╯
+
+       Facebook:criminal.box
  
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;92mcriminal-mafia
+\033[1;96mInstagram \033[1;93m: \033[1;92mvi______per
+\033[1;96mFacebook  \033[1;93m: \033[1;92m criminal.box
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/criminal-mafia/criminal-mafia
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "easin"
-CorrectPassword = "easin"
+CorrectUsername = "sexycrimemafia"
+CorrectPassword = "fuckcrimemafia"
 
 loop = 'true'
 while (loop == 'true'):
@@ -415,7 +424,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Himel says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
