@@ -18,7 +18,7 @@
 
 * ls
 
-* cd criminal
+* cd criminal-mafia
 
 * ls 
 
